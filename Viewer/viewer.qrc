@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/Viewer">
+        <file>Resources/about.ico</file>
+        <file>Resources/aboutqt.ico</file>
+        <file>Resources/actualsize.ico</file>
+        <file>Resources/exit.ico</file>
+        <file>Resources/fullwindow.ico</file>
+        <file>Resources/left.ico</file>
+        <file>Resources/next.ico</file>
+        <file>Resources/open.ico</file>
+        <file>Resources/openfile.ico</file>
+        <file>Resources/pic_icon.png</file>
+        <file>Resources/previous.ico</file>
+        <file>Resources/printer.ico</file>
+        <file>Resources/right.ico</file>
+        <file>Resources/screen.jpg</file>
+        <file>Resources/softbackground.jpg</file>
+        <file>Resources/zoomin.ico</file>
+        <file>Resources/zoomout.ico</file>
+        <file>Resources/fitscreen.ico</file>
+        <file>Resources/fullscreen.ico</file>
+        <file>Resources/camera.ico</file>
+        <file>Resources/hand.ico</file>
+    </qresource>
+</RCC>
